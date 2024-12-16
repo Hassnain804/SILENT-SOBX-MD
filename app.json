@@ -7,7 +7,7 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {GMgR3QaJ#SffQZBmrDD3SVFklQmE4_4ErA_K8SuI6p52o2DuI3Us
+    "SESSION_ID": {
       "description": "GMgR3QaJ#SffQZBmrDD3SVFklQmE4_4ErA_K8SuI6p52o2DuI3Us",
       "required": true,
       "value": ""
